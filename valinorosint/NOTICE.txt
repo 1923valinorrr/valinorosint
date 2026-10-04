@@ -1,0 +1,2 @@
+valinorosint, MIT lisanslı Sherlock projesinden (github.com/sherlock-project/sherlock)
+türetilmiştir. Orijinal telif ve lisans metni LICENSE dosyasında korunmuştur.
